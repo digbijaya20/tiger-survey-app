@@ -1,3 +1,6 @@
+Simpe react application for create survey and publish the survey and take survey.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
